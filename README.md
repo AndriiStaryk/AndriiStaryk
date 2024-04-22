@@ -10,7 +10,7 @@
 
 - 🔭 Graduated from UPML KNU. I’m currently studying in FCSC KNU on Computer Science degree.
 
-- 🌱 I’m currently learning **Swift, C#, and improving my Python, HTML, CSS and JavaScript skills**
+- 🌱 I’m currently learning **Python, HTML, CSS, JavaScript and improving my Swift, C# skills**
 
 - 📫 How to reach me: **andrystarik@gmail.com**;
 
