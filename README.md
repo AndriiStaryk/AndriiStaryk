@@ -14,7 +14,7 @@
 
 - 📫 How to reach me: **andrystarik@gmail.com**;
 
-- ⚡ Hobbiies: **I like photography**
+- ⚡ Hobbies: **I like photography**
 
 ### Connect with me:
 
