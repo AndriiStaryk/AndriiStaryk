@@ -10,7 +10,7 @@
 
 <p align="left" > <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 Graduated from UPML KNU. I’m currently studying in FCSC KNU on Computer Science degree.
+- 🔭 Graduated from UPML KNU. I’m currently studying <br>in FCSC KNU on Computer Science degree.
 
 - 🌱 I’m currently learning **Python, HTML, CSS, JavaScript and improving my Swift, C# skills**
 
