@@ -2,7 +2,7 @@
 
 # Hello, I'm Andrii Staryk 🌟
 
-### An 19 y.o aspiring developer from Ukraine
+### An 20 y.o aspiring developer from Ukraine
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 
@@ -12,7 +12,7 @@
 
 - 🔭 Graduated from UPML KNU. I’m currently studying <br>in FCSC KNU on Computer Science degree.
 
-- 🌱 I’m currently learning **Python, HTML, CSS, JavaScript and improving my Swift, C# skills**
+- 🌱 I’m currently improving my **Swift, C#** skills
 
 - 📫 How to reach me: **andrystarik@gmail.com**;
 
@@ -20,7 +20,9 @@
 
 ### Connect with me:
 
+
 <p align="left">
+<a href="https://www.linkedin.com/in/andrii-staryk-597626336" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="andrii-staryk" height="30" width="40" /></a>
 <a href="https://www.instagram.com/andrii_staryk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="andrii.staryk" height="30" width="40" /></a>
 </p>
 
